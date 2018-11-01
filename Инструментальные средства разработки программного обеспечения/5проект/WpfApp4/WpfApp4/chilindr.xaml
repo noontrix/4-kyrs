@@ -1,0 +1,24 @@
+﻿<Window x:Class="WpfApp4.chilindr"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp4"
+        mc:Ignorable="d"
+        Title="chilindr" Height="396.178" Width="448">
+    <Grid>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="32" Margin="259,21,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="170" TextChanged="textBox_TextChanged"/>
+        <TextBox x:Name="textBox1" HorizontalAlignment="Left" Height="32" Margin="259,83,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="170" TextChanged="textBox1_TextChanged"/>
+        <TextBox x:Name="textBox2" HorizontalAlignment="Left" Height="32" Margin="259,155,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="170" TextChanged="textBox2_TextChanged"/>
+        <TextBox x:Name="textBox3" HorizontalAlignment="Left" Height="32" Margin="259,227,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="170"/>
+        <TextBox x:Name="textBox4" HorizontalAlignment="Left" Height="32" Margin="259,298,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="170"/>
+        <Image x:Name="_162px_Cylinder_geometry_svg_png" Margin="10,10,269.333,36.667" Source="162px-Cylinder_geometry.svg.png" Stretch="Fill"/>
+        <Label x:Name="label1" Content="R&#xA;" HorizontalAlignment="Left" Margin="227,21,0,0" VerticalAlignment="Top" Width="27" Height="33" FontFamily="Times New Roman" FontSize="16" RenderTransformOrigin="0.377,0.348"/>
+        <Label x:Name="label2" Content="H" HorizontalAlignment="Left" Margin="224,82,0,0" VerticalAlignment="Top" Width="27" Height="33" FontFamily="Times New Roman" FontSize="16" RenderTransformOrigin="0.414,1.369"/>
+        <Label x:Name="label4" Content="Sбок&#xA;" HorizontalAlignment="Left" Margin="203,227,0,0" VerticalAlignment="Top" Width="48" Height="33" FontFamily="Times New Roman" FontSize="16"/>
+        <Label x:Name="label3" Content="Sобщая&#xA;" HorizontalAlignment="Left" Margin="187,155,0,0" VerticalAlignment="Top" Width="64" Height="33" FontFamily="Times New Roman" FontSize="16"/>
+        <Label x:Name="label5" Content="V&#xA;" HorizontalAlignment="Left" Margin="224,297,0,0" VerticalAlignment="Top" Width="27" Height="33" FontFamily="Times New Roman" FontSize="16"/>
+        <Button x:Name="button" Content="Выход" HorizontalAlignment="Left" Height="22" Margin="10,335,0,0" VerticalAlignment="Top" Width="419" Click="button_Click"/>
+
+    </Grid>
+</Window>

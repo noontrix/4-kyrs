@@ -1,0 +1,45 @@
+C:\Users\kirill\source\repos\WpfApp3\WpfApp3\bin\Debug\WpfApp3.exe.config
+C:\Users\kirill\source\repos\WpfApp3\WpfApp3\bin\Debug\WpfApp3.exe
+C:\Users\kirill\source\repos\WpfApp3\WpfApp3\bin\Debug\WpfApp3.pdb
+C:\Users\kirill\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csprojAssemblyReference.cache
+C:\Users\kirill\source\repos\WpfApp3\WpfApp3\obj\Debug\MainWindow.g.cs
+C:\Users\kirill\source\repos\WpfApp3\WpfApp3\obj\Debug\App.g.cs
+C:\Users\kirill\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.cache
+C:\Users\kirill\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.lref
+C:\Users\kirill\source\repos\WpfApp3\WpfApp3\obj\Debug\MainWindow.baml
+C:\Users\kirill\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3.g.resources
+C:\Users\kirill\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3.Properties.Resources.resources
+C:\Users\kirill\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.GenerateResource.cache
+C:\Users\kirill\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.CoreCompileInputs.cache
+C:\Users\kirill\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3.exe
+C:\Users\kirill\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3.pdb
+\\Mac\Home\Desktop\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\WpfApp3\WpfApp3\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Desktop\WpfApp3\WpfApp3\obj\Debug\App.g.cs
+\\Mac\Home\Desktop\WpfApp3\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.cache
+\\Mac\Home\Desktop\WpfApp3\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.lref
+\\Mac\Home\Desktop\WpfApp3\WpfApp3\obj\Debug\WpfApp3.exe
+\\Mac\Home\Desktop\WpfApp3\WpfApp3\obj\Debug\WpfApp3.pdb
+\\Mac\Home\Desktop\WpfApp3\WpfApp3\bin\Debug\WpfApp3.exe.config
+\\Mac\Home\Desktop\WpfApp3\WpfApp3\bin\Debug\WpfApp3.exe
+\\Mac\Home\Desktop\WpfApp3\WpfApp3\bin\Debug\WpfApp3.pdb
+\\Mac\Home\Desktop\WpfApp3\WpfApp3\obj\Debug\MainWindow.baml
+\\Mac\Home\Desktop\WpfApp3\WpfApp3\obj\Debug\WpfApp3.g.resources
+\\Mac\Home\Desktop\WpfApp3\WpfApp3\obj\Debug\WpfApp3.Properties.Resources.resources
+\\Mac\Home\Desktop\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Учеба\Инструментальные средства разработки программного обеспечения. Кириеева\4проект\WpfApp3\bin\Debug\WpfApp3.exe.config
+\\Mac\Home\Desktop\Учеба\Инструментальные средства разработки программного обеспечения. Кириеева\4проект\WpfApp3\bin\Debug\WpfApp3.exe
+\\Mac\Home\Desktop\Учеба\Инструментальные средства разработки программного обеспечения. Кириеева\4проект\WpfApp3\bin\Debug\WpfApp3.pdb
+\\Mac\Home\Desktop\Учеба\Инструментальные средства разработки программного обеспечения. Кириеева\4проект\WpfApp3\obj\Debug\WpfApp3.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Учеба\Инструментальные средства разработки программного обеспечения. Кириеева\4проект\WpfApp3\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Desktop\Учеба\Инструментальные средства разработки программного обеспечения. Кириеева\4проект\WpfApp3\obj\Debug\App.g.cs
+\\Mac\Home\Desktop\Учеба\Инструментальные средства разработки программного обеспечения. Кириеева\4проект\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.cache
+\\Mac\Home\Desktop\Учеба\Инструментальные средства разработки программного обеспечения. Кириеева\4проект\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.lref
+\\Mac\Home\Desktop\Учеба\Инструментальные средства разработки программного обеспечения. Кириеева\4проект\WpfApp3\obj\Debug\MainWindow.baml
+\\Mac\Home\Desktop\Учеба\Инструментальные средства разработки программного обеспечения. Кириеева\4проект\WpfApp3\obj\Debug\WpfApp3.g.resources
+\\Mac\Home\Desktop\Учеба\Инструментальные средства разработки программного обеспечения. Кириеева\4проект\WpfApp3\obj\Debug\WpfApp3.Properties.Resources.resources
+\\Mac\Home\Desktop\Учеба\Инструментальные средства разработки программного обеспечения. Кириеева\4проект\WpfApp3\obj\Debug\WpfApp3.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Учеба\Инструментальные средства разработки программного обеспечения. Кириеева\4проект\WpfApp3\obj\Debug\WpfApp3.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Учеба\Инструментальные средства разработки программного обеспечения. Кириеева\4проект\WpfApp3\obj\Debug\WpfApp3.exe
+\\Mac\Home\Desktop\Учеба\Инструментальные средства разработки программного обеспечения. Кириеева\4проект\WpfApp3\obj\Debug\WpfApp3.pdb
