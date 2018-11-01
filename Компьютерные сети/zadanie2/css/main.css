@@ -1,0 +1,65 @@
+.cent
+{
+	text-align: center;
+}
+
+.rotate:hover {
+  transform: rotateZ(20deg);
+}
+
+
+#image{
+  width: 159px;
+
+  position:relative;
+}
+.overlayed{
+
+position:absolute;
+top:0;
+left:0;
+width: 100%;
+height:100%;
+background: #FFF;
+background: -webkit-gradient(linear, left top, right top, color-stop(0%, rgba(0,0,255,1)), color-stop(70%, rgba(0,255,255,0)));
+}
+
+.werwe{
+   display: block;
+  width: 1000px;
+  height: 500px;
+  background-image: linear-gradient(to bottom, black 50%, transparent 100%), url(img/fotoprimer.png);
+  background-size: cover;
+  background-position: center;
+}
+
+.coll0 {
+background-color: green;
+}
+.coll0:hover{
+    background-color: green;
+}
+.coll1 {
+    background-color: blue;
+}
+.coll1:hover{
+    background-color: indianred;
+}
+.coll2 {
+    background-color: yellow;
+}
+.coll2:hover{
+    background-color:darkgray;
+}
+.coll3 {
+    background-color: yellow;
+}
+.coll3:hover{
+    background-color: royalblue;
+}
+.coll4 {
+    background-color: red;
+}
+.coll4:hover{
+    background-color: wheat;
+}
